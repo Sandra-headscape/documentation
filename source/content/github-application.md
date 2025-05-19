@@ -67,7 +67,7 @@ Once you are happy with the change, you can merge the pull request and the GitHu
 
 ## Asumptions of GitHub Application
 
-### Multidev is available at to customers with Gold or higher plans
+### Multidev is available to customers with Gold or higher plans
 
 This GitHub Application is designed to work with Multidev environments. Multidev is available to customers on [Gold or higher plans](/guides/multidev). If you are on a lower plan, you can still use the GitHub Application, but you will not be able to use the Multidev features.
 
@@ -82,7 +82,7 @@ If you need compilation of front-end assets in your WordPress or Drupal theme th
 
 The GitHub Application is currently in private Beta.
 
-We will address these limitaitons before the application is made generally available.
+We will address these limitations before the application is made generally available.
 
 ### Limited to new projects created by the Terminus
 
